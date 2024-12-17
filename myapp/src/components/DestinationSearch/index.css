@@ -1,0 +1,21 @@
+.main-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 100px;
+} 
+h1{
+    font-weight: bold;
+    font-size: 15px;
+}
+.img{
+    height: 30px;
+    width: 25px;
+    padding-top: 15px;
+}
+.sa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
